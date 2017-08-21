@@ -1,0 +1,5 @@
+package by.htp.library.command;
+
+public enum CommandName {
+	LOGIN, LOGOUT, REGISTRATION, GOTO1, GOTOREGISTRATION, GOTOCHANGEPASSWORDPAGE, CHANGEPASSWORD;
+}
